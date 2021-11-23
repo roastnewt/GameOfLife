@@ -1,0 +1,12 @@
+div .living {
+  background-color: black;
+}
+
+div .dead {
+  background-color: white;
+}
+
+table td {
+  table-layout: fixed;
+  width: 20px;
+}
